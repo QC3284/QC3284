@@ -1,6 +1,6 @@
 ### Hello there, I'm QC3284 👋
 - An ordinary student in China
-- My Blog: [![](https://img.shields.io/badge/Blog-KirCute-%2300a76c?style=flat)](https://www.kircute.top)
+- My Blog: [![](https://img.shields.io/badge/Blog-QC3284-%2300a76c?style=flat)](https://www.xcqcoo.top)
 - My GitHub: [![](https://img.shields.io/badge/GitHub-QC3284-%23000000?style=flat)](https://github.com/QC3284)
 
 ---
